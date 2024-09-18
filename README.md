@@ -1,8 +1,6 @@
-# cy-data-test
+# Documentacao - Curso Cypress do zero a nuvem
 
-[![main](https://github.com)](https://github.com)
-
-Projeto referente ao curso CYPRESS DO ZERO A NUVEM. 
+Projeto referente ao curso [CYPRESS DO ZERO A NUVEM.](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem) Walmir 
 
 ## Pré-Requisitos
 

@@ -1,6 +1,6 @@
-# Documentacao - Curso Cypress do zero a nuvem
+# Documentação - Curso Cypress do zero a nuvem
 
-Projeto referente ao curso [CYPRESS DO ZERO A NUVEM.](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem) Walmir 
+Projeto referente ao curso [CYPRESS DO ZERO A NUVEM.](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem)
 
 ## Pré-Requisitos
 
